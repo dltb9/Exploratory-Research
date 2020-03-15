@@ -10,3 +10,4 @@ We use the Simons Foundation Autism Research Initiative (SFARI) Simon’s Simple
 Scala, Spark, Slurm Workload Manager
 ## Publication
 This work has been published in IEEE Journal of Biomedical and Health Informatics (IF: 4.217).
+D. Liu, W. Baskett, D. Beversdorf and C. Shyu, "Exploratory Data Mining for Subgroup Cohort Discoveries and Prioritization," in IEEE Journal of Biomedical and Health Informatics.
